@@ -1,4 +1,6 @@
-# MovingLeastSquare
+# Image Deformation using MovingLeastSquare
+
+
 Implementation of "Image Deformation Using Moving Least Squares" in C++ (OpenGL / OpenCV)
 
 
