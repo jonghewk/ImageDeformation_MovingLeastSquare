@@ -5,13 +5,13 @@ Implementation of "Image Deformation Using Moving Least Squares" in C++ (OpenGL 
 
 
 
-This application is an implementation of 
-
-"Image Deformation Using Moving Least Squares" by Scott Schaefer written in C++.
+This application is an implementation of  "Image Deformation Using Moving Least Squares" by Scott Schaefer.
 
 
 The code is based on the MATLAB code written by Gabriele Lombardi. 
 
-OpenGL and OpenCV are required. 
+
+
+(OpenGL and OpenCV are required)
 
 
