@@ -13,8 +13,7 @@
 #include <vector>
 #include <opencv/highgui.h>
 #include <opencv/cv.h>
-#include <GL/glut.h>
-#define GLEW_STATIC
+
 using namespace cv;
 using namespace std;
 
